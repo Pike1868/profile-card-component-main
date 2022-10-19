@@ -13,6 +13,10 @@ body {
   align-items: center;
   min-height: 100vh;
   font-size: 18px;
+  background-image: url(/docs/assets/images/bg-pattern-top.svg), url(/docs/assets/images/bg-pattern-bottom.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-position: right 50vw bottom 50vh, left 50vh top 50vh;
+
 }
 
 .container {
@@ -36,8 +40,7 @@ body {
   margin-top: -52px;
 }
 
-.content h2,
-.stat {
+.content h2 {
   color: #2d3248;
   font-weight: 700;
 }
@@ -59,16 +62,23 @@ body {
   display: flex;
   justify-content: space-around;
   padding: 1rem;
-  margin-top: 1rem;
-  border-top: 1px solid #2d3248;
+  margin-top: 30px;
+  border-top: 1px solid hsla(227, 10%, 46%, 0.2);
+  padding: 30px 50px;
 }
 
 .footer .stat {
-  font-size: 20px;
+  font-size: 18px;
   margin-bottom: 10px;
+  color: #2d3248;
+  font-weight: 700;
 }
 
-.attribution {
-  margin: auto;
-  display: block;
+.attribution{
+  max-width: 375px;
+  padding-top: 2rem;
+}
+
+.city{
+  padding-top: 12px;
 }
