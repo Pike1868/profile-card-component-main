@@ -45,7 +45,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-Still getting comfortable with the whole process of completing these challenges. This challenge helped me practice html and css, although it did take me some time to read and research different css properties I'm learning where to look and how to debug quicker than before.Getting more comfortable with html css and using git and vscode.
+Still getting comfortable with the whole process of completing these challenges. This challenge helped me practice html and css, adn also needed practice working with css links and images and how to properly use them for github pages. Although it did take me some time to read and research different css properties I'm learning where to look and how to debug quicker than before. Getting more comfortable with html css and using git and vscode.
 
 
 ### Continued development
@@ -56,9 +56,7 @@ I wanted to complete the project using tailwind but found that I was facing a lo
 
 - [Resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) 
 
-
-- [Resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- [Resource 2](https://maximorlov.com/deploying-to-github-pages-dont-forget-to-fix-your-links/) - This is a great article that helped me when my css was not being render on github pages.
 
 ## Author
 
@@ -66,6 +64,3 @@ I wanted to complete the project using tailwind but found that I was facing a lo
 - Frontend Mentor - [@Pike1868](https://www.frontendmentor.io/profile/Pike1868)
 - Twitter - [@LuisMendozaio](https://www.twitter.com/LuisMendozaio)
 
-
-
-## Acknowledgments
