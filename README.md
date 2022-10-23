@@ -54,7 +54,7 @@ I wanted to complete the project using tailwind but found that I was facing a lo
 
 ### Useful resources
 
-- [Resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) 
+- [Resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) MDN Documentation on flexbox.
 
 - [Resource 2](https://maximorlov.com/deploying-to-github-pages-dont-forget-to-fix-your-links/) - This is a great article that helped me when my css was not being render on github pages.
 
